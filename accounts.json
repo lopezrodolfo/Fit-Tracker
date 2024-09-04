@@ -1,0 +1,41 @@
+[
+  {
+    "username": "dolfo_lopez",
+    "full name": "Rodolfo Lopez",
+    "gender": "male",
+    "height": "69",
+    "weight": "145",
+    "age": "20",
+    "calories consumed": "2430.0",
+    "calories burned": "515.0",
+    "calorie budget": "1712.4700000000003",
+    "net calories": "1915.0",
+    "deviation": "-202.52999999999975"
+  },
+  {
+    "username": "r1",
+    "full name": "Rodolfo Lopez",
+    "gender": "male",
+    "height": "69",
+    "weight": "135",
+    "age": "20",
+    "calories consumed": "0.0",
+    "calories burned": "515.0",
+    "calorie budget": "1650.0700000000002",
+    "net calories": "-515.0",
+    "deviation": "2165.07"
+  },
+  {
+    "username": "profNuzen",
+    "full name": "Ahn Nuzen",
+    "gender": "male",
+    "height": "70",
+    "weight": "130",
+    "age": "40",
+    "calories consumed": "1600.0",
+    "calories burned": "300.0",
+    "calorie budget": "1496.47",
+    "net calories": "1300.0",
+    "deviation": "196.47000000000003"
+  }
+]

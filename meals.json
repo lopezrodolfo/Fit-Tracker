@@ -1,0 +1,93 @@
+[
+  {
+    "type": "drink",
+    "name": "water",
+    "unit": "cup",
+    "caloriesPerUnit": "0",
+    "amount": "7"
+  },
+  {
+    "type": "food",
+    "name": "mango",
+    "unit": "gram",
+    "caloriesPerUnit": "10",
+    "amount": "10"
+  },
+  {
+    "type": "drink",
+    "name": "dr pepper",
+    "unit": "cup",
+    "caloriesPerUnit": "100",
+    "amount": "1"
+  },
+  {
+    "type": "drink",
+    "name": "gatorade",
+    "unit": "cup",
+    "caloriesPerUnit": "100",
+    "amount": "1"
+  },
+  {
+    "type": "food",
+    "name": "popcorn",
+    "unit": "cup",
+    "caloriesPerUnit": "20",
+    "amount": "2"
+  },
+  {
+    "type": "food",
+    "name": "doritos",
+    "unit": "bag",
+    "caloriesPerUnit": "100",
+    "amount": "2"
+  },
+  {
+    "type": "food",
+    "name": "applegate turkey bacon",
+    "unit": "slice",
+    "caloriesPerUnit": "30",
+    "amount": "4"
+  },
+  {
+    "type": "food",
+    "name": "cookie dough protein bar",
+    "unit": "serving",
+    "caloriesPerUnit": "170",
+    "amount": "1"
+  },
+  {
+    "type": "drink",
+    "name": "thai milk tea with boba",
+    "unit": "oz",
+    "caloriesPerUnit": "30",
+    "amount": "16"
+  },
+  {
+    "type": "food",
+    "name": "chick-fil-a sandwich",
+    "unit": "item",
+    "caloriesPerUnit": "380",
+    "amount": "2"
+  },
+  {
+    "type": "drink",
+    "name": "vanilla protein shake",
+    "unit": "cup",
+    "caloriesPerUnit": "100",
+    "amount": "4"
+  },
+  {
+    "type": "food",
+    "name": "toreo club sandwich",
+    "unit": "item",
+    "caloriesPerUnit": "500",
+    "amount": "1"
+  },
+  {
+    "type": "food",
+    "name": "california roll",
+    "unit": "roll",
+    "caloriesPerUnit": "400",
+    "amount": "4"
+  }
+]

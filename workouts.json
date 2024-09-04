@@ -1,0 +1,50 @@
+[
+  {
+    "type": "cardio",
+    "name": "bike",
+    "caloriesPerHour": "100",
+    "hours": "2"
+  },
+  {
+    "type": "weighted",
+    "name": "bench press",
+    "caloriesPerHour": "50",
+    "hours": "0.5"
+  },
+  {
+    "type": "cardio",
+    "name": "rowing",
+    "caloriesPerHour": "200",
+    "hours": "1"
+  },
+  {
+    "type": "cardio",
+    "name": "run",
+    "caloriesPerHour": "200",
+    "hours": "1"
+  },
+  {
+    "type": "weighted",
+    "name": "arm day",
+    "caloriesPerHour": "50",
+    "hours": "1"
+  },
+  {
+    "type": "weighted",
+    "name": "squat",
+    "caloriesPerHour": "65",
+    "hours": "1"
+  },
+  {
+    "type": "cardio",
+    "name": "evening walk",
+    "caloriesPerHour": "100",
+    "hours": "4"
+  },
+  {
+    "type": "weighted",
+    "name": "pull ups",
+    "caloriesPerHour": "75",
+    "hours": "4"
+  }
+]
